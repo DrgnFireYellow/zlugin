@@ -1,3 +1,4 @@
+![logo](./logo.png)
 # zlugin
 A lightweight zsh plugin manager
 
