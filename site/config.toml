@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Zlugin'
-theme = 'paige'
+theme = 'gohugo-theme-ananke'
