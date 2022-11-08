@@ -1,6 +1,7 @@
 ![logo](./logo.png)
 # zlugin
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DrgnFireYellow/zlugin?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/DrgnFireYellow/zlugin?style=social)
 
 A lightweight zsh plugin manager
 
