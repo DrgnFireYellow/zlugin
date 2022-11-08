@@ -1,5 +1,7 @@
 ![logo](./logo.png)
 # zlugin
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/DrgnFireYellow/zlugin?style=flat-square)
+
 A lightweight zsh plugin manager
 
 ## Installation
