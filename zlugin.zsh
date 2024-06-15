@@ -7,7 +7,7 @@ function zlugin() {
     # Downloads a plugin and reloads
     # Syntax: zlugin [string: github repository of a plugin]
     git clone "https://github.com/$1.git" $HOME/.zlugin/$1 &>> $HOME/zlugin.log
-    zlugin_reload
+    zlugin_reload $1
 }
 
 function update_zlugin() {
